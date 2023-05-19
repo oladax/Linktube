@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Linktube/static/css/main.afe66d39.css",
+    "main.js": "/Linktube/static/js/main.b6565926.js",
+    "static/media/plane.png": "/Linktube/static/media/plane.fcc3025f4f2b1f793b18.png",
+    "index.html": "/Linktube/index.html",
+    "main.afe66d39.css.map": "/Linktube/static/css/main.afe66d39.css.map",
+    "main.b6565926.js.map": "/Linktube/static/js/main.b6565926.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afe66d39.css",
+    "static/js/main.b6565926.js"
+  ]
+}
